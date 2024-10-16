@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET** at a vocational university
 
-- Before studying at this vocational university, I've been self-taught in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL** and **Java**.
+- 🧑‍🎓 Before studying at this vocational university, I've been self-taught in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL** and **Java**.
 
 - 📫 How to reach me **admin@onniserver.com**
 
