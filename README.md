@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello there 
+
+My name is **Onni Bucht** and I'm currently studying **.NET full stack web development** at **Chas Academy**.
+Before studying at this vocational university, I've been self-taught in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL** and **Java**.
 
 <!--
 **onni82/onni82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
